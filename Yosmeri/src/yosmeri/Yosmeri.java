@@ -31,6 +31,12 @@ public class Yosmeri {
      System.out.println(Math.ceil (num1));
      System.out.println("El entero mas cercano por debajo es: ");
      System.out.println(Math.floor (num2));
+     System.out.println ("El primer numero como base elevado al segundo numero como exponente es: ");
+     System.out.println (Math.pow (num1, num2));
+     System.out.println ("El numero maximo entre los dos valores ingresadoses: ");
+     System.out.println (Math.max(num1, num2));
+     System.out.println ("El numero minimo entre los dos valores ingresados es: ");
+     System.out.println(Math.min (num1, num2));
      
         
     }
